@@ -1,0 +1,14 @@
+{
+  "name": "braindrain",
+  "version": "1.0.0",
+  "description": "``` chmod +x boxit.js ```",
+  "main": "boxit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "boxit": "./boxit.js"
+  }
+}
